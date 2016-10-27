@@ -1,4 +1,4 @@
-# RuneInfo
+![Logo](https://raw.githubusercontent.com/AoDude/RuneInfo/master/runeinfo.png)
 Documentation for a Closed-Source Runescape Discord Chat-Bot
 
 ---

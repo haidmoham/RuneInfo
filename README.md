@@ -38,3 +38,73 @@ Documentation for a Closed-Source Runescape Discord Chat-Bot
 >**Description:** Returns the amount of time since the bot started.
 
 >**Usage:** `!uptime`
+
+#### Version
+>**Description:** Displays the current version of the bot.
+
+>**Usage:** `!version`
+
+#### Gameboard
+>**Description:** Displays how many people are playing what game.
+
+>**Usage:** `!gameboard`
+
+### Misc
+
+#### Twitch
+>**Description:** Displays twitch information based on <Twitch_Username>.
+
+>**Usage:** `!twitch <TwitchUsername:str>`
+
+## OSRS Commands
+
+### Game Info
+
+#### 07price
+>**Description:** Displays the current OSRS grand exchange info for <Item>
+
+>**Usage:** `!07price <Item:str>`
+
+#### 07rsw
+>**Description:** Linkifies the search term on the OSRS Wikia.
+
+>**Usage:** `!07rsw <Search_Term>, [...]`
+
+###User Info
+
+#### 07combat
+>**Description:** Display OSRS combat level, and what it would take to increase it.
+
+>**Usage:** `!(07combat|07cmb) <Username:str>`
+
+#### 07stats-dm
+>**Description:** Display OSRS Deadman Mode stats of the username given.
+
+>**Usage:** ` !(07stats-dm|07hs-dm) <Username:str>`
+
+#### 07stats-dms
+>**Description:** Display OSRS Deadman Seasonal stats of the username given.
+>**Usage:** ` !(07stats-dms|07hs-dms) <Username:str>`
+
+#### 07stats-im
+>**Description:** Display OSRS Ironman stats of the username given.
+
+>**Usage:** `!(07stats-im|07hs-im) <Username:str>`
+
+#### 07stats-uim
+>**Description:** Display OSRS Ultimate Ironman stats of the username given.
+
+>**Usage:** `!(07stats-uim|07hs-uim) <Username:str>`
+
+#### 07stats
+>**Description:** Display OSRS stats of the username given.
+
+>**Usage:** `!(07stats|07hs) <Username:str>`
+
+
+#### 
+>**Description:**
+
+>**Usage:** 
+
+

@@ -16,6 +16,12 @@ Documentation for a Closed-Source Runescape Discord Chat-Bot
   - [PVM](#pvm)
   - [Repeatables](#repeatables)
   - [User Info](#user-info-1)
+  
+    
+**Key** | **Info**
+------------ | -------------
+**Usage Parameters** | `<required> [optional]`
+**Aliases** | `!(command|alias)`
 
 ## General Commands
 

@@ -134,7 +134,7 @@ Documentation for a Closed-Source Runescape Discord Chat-Bot
 #### jot
 >**Description:** Displays how much XP you'd gain from Jack of Trades based on type and skill level.
 
->**Usage:** ` !(jot|jackoftrades) <Normal|Master|Supreme|Legendary> <Level:int{1,120}>`
+>**Usage:** `!(jot|jackoftrades) <Normal|Master|Supreme|Legendary> <Level:int{1,120}>`
 
 #### lamp
 >**Description:** Displays how much XP you'd get from a lamp based on Level.
@@ -288,7 +288,7 @@ Documentation for a Closed-Source Runescape Discord Chat-Bot
 #### warbands
 >**Description:** Displays the time until the next Warbands.
 
->**Usage:** !(warbands|wbs)
+>**Usage:** `!(warbands|wbs)`
 
 ###User Info
 

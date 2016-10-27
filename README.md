@@ -242,3 +242,50 @@ Documentation for a Closed-Source Runescape Discord Chat-Bot
 >**Description:** Displays the current Vorago rotation.
 
 >**Usage:** `!(vorago|rago)`
+
+###Repeatables
+
+#### bigchin
+>**Description:** Displays when the next Big Chinchompa will be.
+
+>**Usage:** `!bigchin`
+
+#### cache
+>**Description:** Displays when the next Guthixian Cache will be.
+
+>**Usage:** `!cache`
+
+#### circus
+>**Description:** Displays the current location for the Circus.
+
+>**Usage:** `!circus`
+
+#### invasion
+>**Description:** Determine how much XP you get for completing troll invasion based on <Level>.
+
+>**Usage:** `!(invasion|trollinvasion|troll) <Level:int{1,120}>`
+
+#### penglocs
+>**Description:** Displays the current location of the Penguins on World 60.
+
+>**Usage:** `!penglocs`
+
+#### raven
+>**Description:** Displays when the next Raven will spawn in Prifddinas.
+
+>**Usage:** `!raven`
+
+#### runesphere
+>**Description:** Displays the time until the next runesphere.
+
+>**Usage:** `!runesphere`
+
+#### sinkhole
+>**Description:** Displays when the next Sinkhole will be.
+
+>**Usage:** `!(sinkhole|sinkholes)`	
+
+#### warbands
+>**Description:** Displays the time until the next Warbands.
+
+>**Usage:** !(warbands|wbs)

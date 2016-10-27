@@ -289,3 +289,46 @@ Documentation for a Closed-Source Runescape Discord Chat-Bot
 >**Description:** Displays the time until the next Warbands.
 
 >**Usage:** !(warbands|wbs)
+
+###User Info
+
+#### alog
+>**Description:** Displays the adventure log of the username given.
+
+>**Usage:** `!alog <Username:str>`
+
+#### combat
+>**Description:** Display RS3 combat level, and tells you what you would need to increase your combat level.
+
+>**Usage:** `!(combat|cmb) <Username:str>`
+
+#### getclan
+>**Description:** Display RS3 clan of the username given.
+
+>**Usage:** !getclan <Username:str>
+
+#### online
+>**Description:** Displays online status of the username given, or total player count if no username is provided.
+
+>**Usage:** `!online [Username:str], [...]`
+
+#### stats-hcim
+>**Description:** Display RS3 Hardcore Ironman stats of the username given.
+
+>**Usage:** `!(stats-hcim|hs-hcim) <Username:str>`
+
+#### stats-im
+>**Description:** Display RS3 Ironman stats of the username given.
+
+>**Usage:** `!(stats-im|hs-im) <Username:str>`
+
+#### stats
+>**Description:** Display RS3 stats of the username given.
+
+>**Usage:** `!(stats|hs) <Username:str>`
+
+#### wsid
+>**Description:** `What Should I Do?` Returns a random object you should work on. Optionally, providing your username will provide a more personalised object to work on.
+
+>**Usage:** `!wsid [Username:str]`
+

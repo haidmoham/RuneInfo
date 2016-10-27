@@ -173,3 +173,29 @@ Documentation for a Closed-Source Runescape Discord Chat-Bot
 >**Description:** Displays how much XP you'd gain in various skills from monthly god statues.
 
 >**Usage:** `!statues <Username:str>`
+
+#### thaler
+>**Description:** Displays the current spotlighted minigame.
+
+>**Usage:** `!(thaler|minigame|minigames|spotlight) [Minigame:str]`
+
+#### time
+>**Description:** Displays the current game-time.
+
+>**Usage:** `!time`
+
+#### viswax
+>**Description:** Displays the current Vis Wax Combinations.
+
+>**Usage:** `!(viswax|vis)`
+
+#### vos
+>**Description:** Displays the current Voice of Seren districts.
+
+>**Usage:** `!vos`
+
+#### youtube
+>**Description:** Displays the most recent RuneScape YouTube Upload.
+
+>**Usage:** `!youtube`
+

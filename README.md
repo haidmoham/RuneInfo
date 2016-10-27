@@ -213,4 +213,31 @@ Documentation for a Closed-Source Runescape Discord Chat-Bot
 
 ###PVM
 
-####Coming soon (TM)
+#### araxxor
+>**Description:** Displays the current Araxxor rotation.
+
+>**Usage:** `!(araxxor|araxxi|rax)`
+
+#### pvm
+>**Description:** Displays the current PVM rotations.
+
+>**Usage:** `!pvm`
+
+#### pvmstats
+>**Description:** Displays only pvm stats.
+
+>**Usage:** `!pvmstats <Username:str>`
+
+#### pvmstaples
+>**Description:** Displays what pvm tools are useable, via levels alone.
+
+>**Usage:** `!pvmstaples <Username:str>`
+
+#### rots
+>**Description:** Displays the current Rise of the Six rotation.
+
+>**Usage:** `!rots`
+
+#### vorago
+>**Description:** Displays the current Vorago rotation.
+

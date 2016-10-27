@@ -1,6 +1,7 @@
-![Logo](https://raw.githubusercontent.com/AoDude/RuneInfo/master/runeinfo.png)
-
-Documentation for a Closed-Source Runescape Discord Chat-Bot
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/AoDude/RuneInfo/master/runeinfo.png" /></p>
+<p>Documentation for a Closed-Source Runescape Discord Chat-Bot</p>
+</div>
 
 ---
 

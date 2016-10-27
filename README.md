@@ -124,3 +124,52 @@ Documentation for a Closed-Source Runescape Discord Chat-Bot
 
 >**Usage:** ` !(jot|jackoftrades) <Normal|Master|Supreme|Legendary> <Level:int{1,120}>`
 
+#### lamp
+>**Description:** Displays how much XP you'd get from a lamp based on Level.
+
+>**Usage:** `!(lamp|xplamp) <Small|Medium|Large|Huge> <Level:int{1,120}>`
+
+#### nemi
+>**Description:** Displays the most recent 9/9 Nemi Forest. 
+
+>**Usage:** `!nemi`
+
+#### news
+>**Description:** Displays the most recent RuneScape News.
+
+>**Usage:** `!news`
+
+#### pengs
+>**Description:** Displays how much XP or Coins you'd gain from penguins.
+
+>**Usage:** `!pengs <Points:int> [Level:int{1,120}]`
+
+#### podcast
+>**Description:** Displays the most recent RuneScape Podcast.
+
+>**Usage:** `!podcast`
+
+#### portables
+>**Description:** Displays the current locations of the Portables FC Worlds.
+
+>**Usage:** `!(portables|portable) [Fletchers|Crafters|Braziers|Sawmills|Forges|Ranges|Wells]`
+
+#### price
+>**Description:** Displays the current grand exchange info for <Item>
+
+>**Usage:** `!price <ItemID:int|ItemName:str>`
+
+#### reset
+>**Description:** Displays how long until reset time.
+
+>**Usage:** `!reset`
+
+#### rsw
+>**Description:** Linkifies the search term on the RuneScape Wikia.
+
+>**Usage:** `!rsw <SearchTerm:str>, [...]`
+
+#### statues
+>**Description:** Displays how much XP you'd gain in various skills from monthly god statues.
+
+>**Usage:** `!statues <Username:str>`

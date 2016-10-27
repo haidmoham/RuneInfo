@@ -5,6 +5,18 @@ Documentation for a Closed-Source Runescape Discord Chat-Bot
 
 # Commands
 
+- [General Commands](#general-commands)
+  - [Chat Bot Info](#chat-bot-info)
+  - [Misc](#misc)
+- [OSRS Commands](#osrs-commands)
+  - [Game Info](#game-info)
+  - [User Info](#user-info)
+- [Runescape Commands](#runescape-commands)
+  - [Game Info](#game-info-1)
+  - [PVM](#pvm)
+  - [Repeatables](#repeatables)
+  - [User Info](#user-info-1)
+
 ## General Commands
 
 ### Chat Bot Info

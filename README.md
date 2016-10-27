@@ -108,5 +108,16 @@ Documentation for a Closed-Source Runescape Discord Chat-Bot
 >**Description:** Displays the current weekly Distraction and Diversion that rewards you a free key.
 
 >**Usage:** `!(dnd|d&d)`
+#### event
+>**Description:** Displays the next event, on the RuneScape community event calendar.
 
+>**Usage:** `!event`
+#### geadditions
+>**Description:** Displays the new items added to the GE since the previous update.
+
+>**Usage:** `!geadditions`
+#### jot
+>**Description:** Displays how much XP you'd gain from Jack of Trades based on type and skill level.
+
+>**Usage:** ` !(jot|jackoftrades) <Normal|Master|Supreme|Legendary> <Level:int{1,120}>`
 

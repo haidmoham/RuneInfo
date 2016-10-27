@@ -96,6 +96,7 @@ Documentation for a Closed-Source Runescape Discord Chat-Bot
 
 #### 07stats-dms
 >**Description:** Display OSRS Deadman Seasonal stats of the username given.
+
 >**Usage:** ` !(07stats-dms|07hs-dms) <Username:str>`
 
 #### 07stats-im

@@ -1,10 +1,11 @@
 <div align="center">
 <p><img src="https://raw.githubusercontent.com/AoDude/RuneInfo/master/runeinfo.png" /></p>
 <p>Documentation for RuneInfo, the RuneScape Discord Chat-Bot</p>
+<p><a href="https://discordapp.com/oauth2/authorize?&client_id=169116208342237184&scope=bot&permissions=268561408"><b>Invite RuneInfo to your Discord Guild</b></a></p>
 </div>
-**Invite RuneInfo to your Discord Guild:** https://discordapp.com/oauth2/authorize?&client_id=169116208342237184&scope=bot&permissions=268561408
 
-*The above is a copy of a link generated requesting the minimum permissions required to use every command at the time. I know not all permissions are right for every server, so don't be afraid to uncheck any of the boxes. If you try to use a command that requires more permissions than the bot is granted, it will let you know.*
+
+>The above is a <u>copy of a link</u> generated requesting the minimum permissions required to use every command at the time. I know not all permissions are right for every server, so don't be afraid to uncheck any of the boxes. If you try to use a command that requires more permissions than the bot is granted, it will let you know.
 
 ---
 

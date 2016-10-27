@@ -101,10 +101,12 @@ Documentation for a Closed-Source Runescape Discord Chat-Bot
 
 >**Usage:** `!(07stats|07hs) <Username:str>`
 
+##Runescape Commands
 
-#### 
->**Description:**
+###Game Info
+#### dnd
+>**Description:** Displays the current weekly Distraction and Diversion that rewards you a free key.
 
->**Usage:** 
+>**Usage:** `!(dnd|d&d)`
 
 

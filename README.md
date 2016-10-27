@@ -199,3 +199,6 @@ Documentation for a Closed-Source Runescape Discord Chat-Bot
 
 >**Usage:** `!youtube`
 
+###PVM
+
+####Coming soon (TM)

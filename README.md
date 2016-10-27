@@ -241,3 +241,4 @@ Documentation for a Closed-Source Runescape Discord Chat-Bot
 #### vorago
 >**Description:** Displays the current Vorago rotation.
 
+>**Usage:** `!(vorago|rago)`

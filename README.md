@@ -1,5 +1,5 @@
 <div align="center">
-<p><img src="https://raw.githubusercontent.com/AoDude/RuneInfo/master/runeinfo.png" /></p>
+<p><img src="https://github.com/AoDude/RuneInfo/blob/master/runeinfotrans.png" /></p>
 <p>Documentation for RuneInfo, the RuneScape Discord Chat-Bot</p>
 <p><a href="https://discordapp.com/oauth2/authorize?&client_id=169116208342237184&scope=bot&permissions=268561408"><b>Invite RuneInfo to your Discord Guild</b></a></p>
 </div>

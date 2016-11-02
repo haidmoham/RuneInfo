@@ -311,12 +311,12 @@
 >**Usage:** `!alog <Username:str>`
 
 #### combat
->**Description:** Display RS3 combat level, and tells you what you would need to increase your combat level.
+>**Description:** Displays RS3 combat level, and tells you what you would need to increase your combat level.
 
 >**Usage:** `!(combat|cmb) <Username:str>`
 
 #### getclan
->**Description:** Display RS3 clan of the username given.
+>**Description:** Displays RS3 clan of the username given.
 
 >**Usage:** !getclan <Username:str>
 
@@ -326,19 +326,24 @@
 >**Usage:** `!online [Username:str], [...]`
 
 #### stats-hcim
->**Description:** Display RS3 Hardcore Ironman stats of the username given.
+>**Description:** Displays RS3 Hardcore Ironman stats of the username given.
 
 >**Usage:** `!(stats-hcim|hs-hcim) <Username:str>`
 
 #### stats-im
->**Description:** Display RS3 Ironman stats of the username given.
+>**Description:** Displays RS3 Ironman stats of the username given.
 
 >**Usage:** `!(stats-im|hs-im) <Username:str>`
 
 #### stats
->**Description:** Display RS3 stats of the username given.
+>**Description:** Displays RS3 stats of the username given.
 
 >**Usage:** `!(stats|hs) <Username:str>`
+
+#### vstats
+>**Description:** Displays virtual RS3 stats of the username given.
+
+>**Usage:** `!(vstats|vhs) <Username:str>`
 
 #### wsid
 >**Description:** `What Should I Do?` Returns a random object you should work on. Optionally, providing your username will provide a more personalised object to work on.

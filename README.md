@@ -315,6 +315,11 @@
 
 >**Usage:** `!(combat|cmb) <Username:str>`
 
+#### gainz
+>**Description:** Display RS3 XP gained recently of the username given.
+
+>**Usage:** `!gainz <Username:str>`
+
 #### getclan
 >**Description:** Displays RS3 clan of the username given.
 

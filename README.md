@@ -36,7 +36,7 @@
 #### Help
 >**Description:** Dm's a help message containing all commands that can be used in the givin channel. Optionally providing a command will display the Description and Usage for the given command.
 
->**Usage:** `!help [Command:str]`
+>**Usage:** `!(help|commands) [Command:str]`
 
 #### Info
 >**Description:** Displays info and stats about the bot.
@@ -101,15 +101,25 @@
 
 >**Usage:** `!(07combat|07cmb) <Username:str>`
 
+#### 07gainz
+>**Description:** Display OSRS XP gained recently of the username given.
+
+>**Usage:** `!(07gainz|osgainz) <Username:str>`
+
 #### 07stats-dm
 >**Description:** Display OSRS Deadman Mode stats of the username given.
 
->**Usage:** ` !(07stats-dm|07hs-dm) <Username:str>`
+>**Usage:** `!(07stats-dm|07hs-dm) <Username:str>`
 
 #### 07stats-dms
 >**Description:** Display OSRS Deadman Seasonal stats of the username given.
 
 >**Usage:** ` !(07stats-dms|07hs-dms) <Username:str>`
+
+#### 07stats-hcim
+>**Description:** Display OSRS Hardcore Ironman stats of the username given.
+
+>**Usage:** `!(07stats-hcim|07hs-hcim) <Username:str>`
 
 #### 07stats-im
 >**Description:** Display OSRS Ironman stats of the username given.
@@ -129,6 +139,12 @@
 ##Runescape Commands
 
 ###Game Info
+
+#### arc
+>**Description:** Displays the current arc rotations.
+
+>**Usage:** `!arc`
+
 #### dnd
 >**Description:** Displays the current weekly Distraction and Diversion that rewards you a free key.
 

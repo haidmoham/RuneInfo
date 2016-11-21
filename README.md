@@ -39,7 +39,7 @@
 >**Usage:** `!(github|version|about)`
 
 #### Help
->**Description:** Dm's a help message containing all commands that can be used in the givin channel. Optionally providing a command will display the Description and Usage for the given command.
+>**Description:** Dm's a help message containing all commands that can be used in the given channel. Optionally providing a command will display the Description and Usage for the given command.
 
 >**Usage:** `!(help|commands) [Command:str]`
 

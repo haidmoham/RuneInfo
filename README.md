@@ -33,15 +33,20 @@
 
 ### Chat Bot Info
 
+#### GitHub/Version/About
+>**Description:** Displays the current version info of the bot.
+
+>**Usage:** `!(github|version|about)`
+
 #### Help
 >**Description:** Dm's a help message containing all commands that can be used in the givin channel. Optionally providing a command will display the Description and Usage for the given command.
 
 >**Usage:** `!(help|commands) [Command:str]`
 
-#### Info
+#### Info/Uptime
 >**Description:** Displays info and stats about the bot.
 
->**Usage:** `!info`
+>**Usage:** `!(info|uptime)`
 
 #### Leave-Channel
 >**Description:** Sets the Read/Write permission for RuneInfo to deny in the current channel. (Only guild admins may use this) Requires Manage Channel Permissions.
@@ -57,21 +62,6 @@
 >**Description:** Pins the most up to date help message. If one already exists, updates the existing one.
 
 >**Usage:** `!pinhelp`
-
-#### Uptime
->**Description:** Returns the amount of time since the bot started.
-
->**Usage:** `!uptime`
-
-#### Version
->**Description:** Displays the current version of the bot.
-
->**Usage:** `!version`
-
-#### Gameboard
->**Description:** Displays how many people are playing what game.
-
->**Usage:** `!gameboard`
 
 ### Misc
 
@@ -140,233 +130,233 @@
 
 ###Game Info
 
-#### arc
+#### Arc
 >**Description:** Displays the current arc rotations.
 
 >**Usage:** `!arc`
 
-#### dnd
+#### Dnd
 >**Description:** Displays the current weekly Distraction and Diversion that rewards you a free key.
 
 >**Usage:** `!(dnd|d&d)`
 
-#### event
+#### Event
 >**Description:** Displays the next event, on the RuneScape community event calendar.
 
 >**Usage:** `!event`
 
-#### geadditions
+#### Geadditions
 >**Description:** Displays the new items added to the GE since the previous update.
 
 >**Usage:** `!geadditions`
 
-#### jot
+#### Jot
 >**Description:** Displays how much XP you'd gain from Jack of Trades based on type and skill level.
 
 >**Usage:** `!(jot|jackoftrades) <Normal|Master|Supreme|Legendary> <Level:int{1,120}>`
 
-#### lamp
+#### Lamp
 >**Description:** Displays how much XP you'd get from a lamp based on Level.
 
 >**Usage:** `!(lamp|xplamp) <Small|Medium|Large|Huge> <Level:int{1,120}>`
 
-#### nemi
+#### Nemi
 >**Description:** Displays the most recent 9/9 Nemi Forest. 
 
 >**Usage:** `!nemi`
 
-#### news
+#### News
 >**Description:** Displays the most recent RuneScape News.
 
 >**Usage:** `!news`
 
-#### pengs
+#### Online
+>**Description:** Displays online player count.
+
+>**Usage:** `!online`
+
+#### Pengs
 >**Description:** Displays how much XP or Coins you'd gain from penguins.
 
 >**Usage:** `!pengs <Points:int> [Level:int{1,120}]`
 
-#### podcast
+#### Podcast
 >**Description:** Displays the most recent RuneScape Podcast.
 
 >**Usage:** `!podcast`
 
-#### portables
+#### Portables
 >**Description:** Displays the current locations of the Portables FC Worlds.
 
 >**Usage:** `!(portables|portable) [Fletchers|Crafters|Braziers|Sawmills|Forges|Ranges|Wells]`
 
-#### price
+#### Price
 >**Description:** Displays the current grand exchange info for <Item>
 
 >**Usage:** `!price <ItemID:int|ItemName:str>`
 
-#### reset
+#### Reset
 >**Description:** Displays how long until reset time.
 
 >**Usage:** `!reset`
 
-#### rsw
+#### Rsw
 >**Description:** Linkifies the search term on the RuneScape Wikia.
 
 >**Usage:** `!rsw <SearchTerm:str>, [...]`
 
-#### statues
+#### Statues
 >**Description:** Displays how much XP you'd gain in various skills from monthly god statues.
 
 >**Usage:** `!statues <Username:str>`
 
-#### thaler
+#### Thaler
 >**Description:** Displays the current spotlighted minigame.
 
 >**Usage:** `!(thaler|minigame|minigames|spotlight) [Minigame:str]`
 
-#### time
+#### Time
 >**Description:** Displays the current game-time.
 
 >**Usage:** `!time`
 
-#### viswax
+#### Viswax
 >**Description:** Displays the current Vis Wax Combinations.
 
 >**Usage:** `!(viswax|vis)`
 
-#### vos
+#### Vos
 >**Description:** Displays the current Voice of Seren districts.
 
 >**Usage:** `!vos`
 
-#### youtube
+#### Youtube
 >**Description:** Displays the most recent RuneScape YouTube Upload.
 
 >**Usage:** `!youtube`
 
-###PVM
+### PVM
 
-#### araxxor
+#### Araxxor
 >**Description:** Displays the current Araxxor rotation.
 
 >**Usage:** `!(araxxor|araxxi|rax)`
 
-#### pvm
+#### Pvm
 >**Description:** Displays the current PVM rotations.
 
 >**Usage:** `!pvm`
 
-#### pvmstats
+#### Pvmstats
 >**Description:** Displays only pvm stats.
 
 >**Usage:** `!pvmstats <Username:str>`
 
-#### pvmstaples
+#### Pvmstaples
 >**Description:** Displays what pvm tools are useable, via levels alone.
 
 >**Usage:** `!pvmstaples <Username:str>`
 
-#### rots
+#### Rots
 >**Description:** Displays the current Rise of the Six rotation.
 
 >**Usage:** `!rots`
 
-#### vorago
+#### Vorago
 >**Description:** Displays the current Vorago rotation.
 
 >**Usage:** `!(vorago|rago)`
 
 ###Repeatables
 
-#### bigchin
+#### Bigchin
 >**Description:** Displays when the next Big Chinchompa will be.
 
 >**Usage:** `!bigchin`
 
-#### cache
+#### Cache
 >**Description:** Displays when the next Guthixian Cache will be.
 
 >**Usage:** `!cache`
 
-#### circus
+#### Circus
 >**Description:** Displays the current location for the Circus.
 
 >**Usage:** `!circus`
 
-#### invasion
+#### Invasion
 >**Description:** Determine how much XP you get for completing troll invasion based on <Level>.
 
 >**Usage:** `!(invasion|trollinvasion|troll) <Level:int{1,120}>`
 
-#### penglocs
+#### Penglocs
 >**Description:** Displays the current location of the Penguins on World 60.
 
 >**Usage:** `!penglocs`
 
-#### raven
+#### Raven
 >**Description:** Displays when the next Raven will spawn in Prifddinas.
 
 >**Usage:** `!raven`
 
-#### runesphere
+#### Runesphere
 >**Description:** Displays the time until the next runesphere.
 
 >**Usage:** `!runesphere`
 
-#### sinkhole
+#### Sinkhole
 >**Description:** Displays when the next Sinkhole will be.
 
 >**Usage:** `!(sinkhole|sinkholes)`	
 
-#### warbands
+#### Warbands
 >**Description:** Displays the time until the next Warbands.
 
 >**Usage:** `!(warbands|wbs)`
 
 ###User Info
 
-#### alog
+#### Alog
 >**Description:** Displays the adventure log of the username given.
 
 >**Usage:** `!alog <Username:str>`
 
-#### combat
+#### Combat
 >**Description:** Displays RS3 combat level, and tells you what you would need to increase your combat level.
 
 >**Usage:** `!(combat|cmb) <Username:str>`
 
-#### gainz
+#### Gainz
 >**Description:** Display RS3 XP gained recently of the username given.
 
 >**Usage:** `!gainz <Username:str>`
 
-#### getclan
->**Description:** Displays RS3 clan of the username given.
+#### Playerinfo/Getclan
+>**Description:** Displays player info of the username provided.
 
->**Usage:** !getclan <Username:str>
+>**Usage:** `!(playerinfo|getclan) <Username:str>`
 
-#### online
->**Description:** Displays online status of the username given, or total player count if no username is provided.
-
->**Usage:** `!online [Username:str], [...]`
-
-#### stats-hcim
+#### Stats-hcim
 >**Description:** Displays RS3 Hardcore Ironman stats of the username given.
 
 >**Usage:** `!(stats-hcim|hs-hcim) <Username:str>`
 
-#### stats-im
+#### Stats-im
 >**Description:** Displays RS3 Ironman stats of the username given.
 
 >**Usage:** `!(stats-im|hs-im) <Username:str>`
 
-#### stats
+#### Stats
 >**Description:** Displays RS3 stats of the username given.
 
 >**Usage:** `!(stats|hs) <Username:str>`
 
-#### vstats
+#### Vstats
 >**Description:** Displays virtual RS3 stats of the username given.
 
 >**Usage:** `!(vstats|vhs) <Username:str>`
 
-#### wsid
+#### Wsid
 >**Description:** `What Should I Do?` Returns a random object you should work on. Optionally, providing your username will provide a more personalised object to work on.
 
 >**Usage:** `!wsid [Username:str]`

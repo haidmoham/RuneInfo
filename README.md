@@ -2,6 +2,7 @@
 <p><img src="https://raw.githubusercontent.com/AoDude/RuneInfo/master/runeinfo.png" /></p>
 <p>Documentation for RuneInfo, the RuneScape Discord Chat-Bot</p>
 <p><a href="https://discordapp.com/oauth2/authorize?&client_id=169116208342237184&scope=bot&permissions=268561408"><b>Invite RuneInfo to your Discord Guild</b></a></p>
+<p><a href="https://discord.gg/TrDnKtQ"><b>Join the Official Discord Guild</b></a></p>
 </div>
 
 

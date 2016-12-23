@@ -337,6 +337,11 @@
 
 >**Usage:** `!(playerinfo|getclan) <Username:str>`
 
+#### Quests
+>**Description:** Display RS3 quests started and eligible of the username given.
+
+>**Usage:** `!quests <Username:str>`
+
 #### Stats-hcim
 >**Description:** Displays RS3 Hardcore Ironman stats of the username given.
 

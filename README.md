@@ -63,13 +63,6 @@
 
 ## General Commands
 
-### Misc
-
-#### Twitch
->**Description:** Displays twitch information based on <Twitch_Username>.
-
->**Usage:** `!twitch <TwitchUsername:str>`
-
 ### Chat Bot Info
 
 #### Github/Version/About
@@ -113,6 +106,79 @@
 >**Description:** Associates your RS3 Username to your Discord ID, allowing you to run RS3 commands without the need of typing your username.
 
 >**Usage:** `!setrsn <Username:str{,12}>`
+
+### Misc
+
+#### Twitch
+>**Description:** Displays twitch information based on <Twitch_Username>.
+
+>**Usage:** `!twitch <TwitchUsername:str>`
+
+## OSRS Commands
+
+### Game Info
+
+#### 07news
+>**Description:** Displays the most recent OSRS News.
+
+>**Usage:** `!07news`
+
+#### 07price
+>**Description:** Displays the current OSRS grand exchange info for <Item>
+
+>**Usage:** `!07price <ItemID:int|ItemName:str>`
+
+#### 07reddit
+>**Description:** Displays the trending osrs reddit posts.
+
+>**Usage:** `!07reddit`
+
+#### 07rsw/07wiki
+>**Description:** Linkifies the search term on the OSRS Wikia.
+
+>**Usage:** `!(07rsw|07wiki) <Search_Term:str>`
+
+### User Info
+
+#### 07combat/07cmb
+>**Description:** Display OSRS combat level, and what it would take to increase it.
+
+>**Usage:** `!(07combat|07cmb) <Username:osrsn>`
+
+#### 07gainz/Osgainz
+>**Description:** Display OSRS XP gained recently of the username given. Credit RuneClan for data.
+
+>**Usage:** `!(07gainz|osgainz) <Username:osrsn>`
+
+#### 07stats-dm/07hs-dm
+>**Description:** Display OSRS Deadman Mode stats of the username given.
+
+>**Usage:** `!(07stats-dm|07hs-dm) <Username:osrsn>`
+
+#### 07stats-dms/07hs-dms
+>**Description:** Display OSRS Deadman Seasonal stats of the username given.
+
+>**Usage:** `!(07stats-dms|07hs-dms) <Username:osrsn>`
+
+#### 07stats-hcim/07hs-hcim
+>**Description:** Display OSRS Ultimate Ironman stats of the username given.
+
+>**Usage:** `!(07stats-hcim|07hs-hcim) <Username:osrsn>`
+
+#### 07stats-im/07hs-im
+>**Description:** Display OSRS Ironman stats of the username given.
+
+>**Usage:** `!(07stats-im|07hs-im) <Username:osrsn>`
+
+#### 07stats-uim/07hs-uim
+>**Description:** Display OSRS Ultimate Ironman stats of the username given.
+
+>**Usage:** `!(07stats-uim|07hs-uim) <Username:osrsn>`
+
+#### 07stats/07hs
+>**Description:** Display OSRS stats of the username given.
+
+>**Usage:** `!(07stats|07hs) <Username:osrsn>`
 
 ## Runescape Commands
 
@@ -359,63 +425,3 @@
 
 >**Usage:** `!wsid [Username:rsn]`
 
-## OSRS Commands
-
-### Game Info
-
-#### 07price
->**Description:** Displays the current OSRS grand exchange info for <Item>
-
->**Usage:** `!07price <ItemID:int|ItemName:str>`
-
-#### 07reddit
->**Description:** Displays the trending osrs reddit posts.
-
->**Usage:** `!07reddit`
-
-#### 07rsw/07wiki
->**Description:** Linkifies the search term on the OSRS Wikia.
-
->**Usage:** `!(07rsw|07wiki) <Search_Term:str>`
-
-### User Info
-
-#### 07combat/07cmb
->**Description:** Display OSRS combat level, and what it would take to increase it.
-
->**Usage:** `!(07combat|07cmb) <Username:osrsn>`
-
-#### 07gainz/Osgainz
->**Description:** Display OSRS XP gained recently of the username given. Credit RuneClan for data.
-
->**Usage:** `!(07gainz|osgainz) <Username:osrsn>`
-
-#### 07stats-dm/07hs-dm
->**Description:** Display OSRS Deadman Mode stats of the username given.
-
->**Usage:** `!(07stats-dm|07hs-dm) <Username:osrsn>`
-
-#### 07stats-dms/07hs-dms
->**Description:** Display OSRS Deadman Seasonal stats of the username given.
-
->**Usage:** `!(07stats-dms|07hs-dms) <Username:osrsn>`
-
-#### 07stats-hcim/07hs-hcim
->**Description:** Display OSRS Ultimate Ironman stats of the username given.
-
->**Usage:** `!(07stats-hcim|07hs-hcim) <Username:osrsn>`
-
-#### 07stats-im/07hs-im
->**Description:** Display OSRS Ironman stats of the username given.
-
->**Usage:** `!(07stats-im|07hs-im) <Username:osrsn>`
-
-#### 07stats-uim/07hs-uim
->**Description:** Display OSRS Ultimate Ironman stats of the username given.
-
->**Usage:** `!(07stats-uim|07hs-uim) <Username:osrsn>`
-
-#### 07stats/07hs
->**Description:** Display OSRS stats of the username given.
-
->**Usage:** `!(07stats|07hs) <Username:osrsn>`

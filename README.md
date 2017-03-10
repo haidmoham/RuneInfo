@@ -385,6 +385,11 @@
 
 >**Usage:** `!(combat|cmb) <Username:rsn>`
 
+#### Compare
+>**Description:** Compares the stats of 2 players.
+
+>**Usage:** `!compare <Username1:str{,12}>, <Username2:rsn>`
+
 #### Gainz
 >**Description:** Display RS3 XP gained recently of the username given. Credit RuneClan for data.
 
@@ -424,4 +429,3 @@
 >**Description:** `What Should I Do?` Returns a random object you should work on. Optionally, providing your username will provide a more personalised object to work on.
 
 >**Usage:** `!wsid [Username:rsn]`
-

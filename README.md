@@ -95,6 +95,13 @@
 
 >**Usage:** `!pinhelp`
 
+### Misc
+
+#### Twitch
+>**Description:** Displays twitch information based on <Twitch_Username>.
+
+>**Usage:** `!twitch <TwitchUsername:str>`
+
 ### User Settings
 
 #### Set07rsn
@@ -107,16 +114,14 @@
 
 >**Usage:** `!setrsn <Username:str{,12}>`
 
-### Misc
-
-#### Twitch
->**Description:** Displays twitch information based on <Twitch_Username>.
-
->**Usage:** `!twitch <TwitchUsername:str>`
-
 ## OSRS Commands
 
 ### Game Info
+
+#### 07geadditions
+>**Description:** Displays the new items added to the GE since the previous update.
+
+>**Usage:** `!07geadditions`
 
 #### 07news
 >**Description:** Displays the most recent OSRS News.
@@ -280,9 +285,9 @@
 >**Usage:** `!time`
 
 #### Viswax/Vis
->**Description:** Displays the current Vis Wax Combinations.
+>**Description:** Displays the current Vis Wax Combinations. [Force is Admin Only]
 
->**Usage:** `!(viswax|vis)`
+>**Usage:** `!(viswax|vis) [Force:str]`
 
 #### Vos
 >**Description:** Displays the current Voice of Seren districts.
